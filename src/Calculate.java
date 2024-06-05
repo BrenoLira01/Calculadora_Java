@@ -5,12 +5,8 @@ public class Calculate {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("WELCOME TO CALCULATOR\n");
+        System.out.println("WELCOME TO CALCULATOR");
         System.out.println("Here are some simple calculations:");
-        System.out.println("9 + 9 = " + (9 + 9));
-        System.out.println("9 - 9 = " + (9 - 9));
-        System.out.println("9 x 9 = " + (9 * 9));
-        System.out.println("9 / 9 = " + (9 / 9) + "\n");
 
         boolean continued = true;
 
